@@ -3,8 +3,9 @@
 <h3>Backend Developer 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek1-AI&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <!--
 **Ozodbek1-AI/Ozodbek1-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
