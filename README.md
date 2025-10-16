@@ -24,21 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek1-AI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### 📫 Contact
-<p align="center">
-  <a href="https://t.me/your_telegram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🧮 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ozodbek1-AI&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
 
 ---
 
