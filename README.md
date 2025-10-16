@@ -15,9 +15,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek1-AI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
