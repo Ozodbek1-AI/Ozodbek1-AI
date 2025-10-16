@@ -6,13 +6,6 @@
   <img src="https://streak-stats.demolab.com/?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek1-AI&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek1-AI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🧰 Tech Stack
 <p align="center">
