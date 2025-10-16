@@ -3,7 +3,7 @@
 <h3>Backend Developer 👨‍💻</h3>
 
 <div align="center">
-  <img class="img" src="https://streak-stats.demolab.com/?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
 </div>
 
 
