@@ -66,6 +66,11 @@
 
 
 
+**Contact**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+
 ------------
 [![Hits](https://hits.sh/github.com/Ozodbek1-AI.svg)](https://hits.sh/github.com/Ozodbek1-AI/)
 ------------
