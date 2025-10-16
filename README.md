@@ -44,5 +44,3 @@
 
 ![Snake animation](https://github.com/themir8/theMir8/blob/output/github-contribution-grid-snake.svg)
 
-
--->
