@@ -1,4 +1,6 @@
-
+<img align="right" src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Ft.me/multibola&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ozodbe</h1>
+<h3>Backend Developer 👨‍💻</h3>
 
 <!--
 **Ozodbek1-AI/Ozodbek1-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
