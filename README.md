@@ -7,9 +7,8 @@
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
 
 <p align="center">
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
 </p>
-
 
 
 <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev) -->
