@@ -2,9 +2,9 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ozodbek</h1>
 <h3>Backend Developer 👨‍💻</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 
 ### 🧰 Tech Stack
