@@ -8,9 +8,6 @@
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
-</p>
 
 
 <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev) -->
@@ -44,5 +41,5 @@
 ------------
 
 
-![Snake animation](https://github.com/themir8/theMir8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/theMir8/theMir8/output/github-contribution-grid-snake.svg)
 
