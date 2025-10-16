@@ -14,6 +14,50 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek1-AI&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek1-AI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek1-AI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact
+<p align="center">
+  <a href="https://t.me/your_telegram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧮 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ozodbek1-AI&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+### 💡 About Me
+<p align="center">
+  🔹 Passionate about backend development<br>
+  🔹 Learning Django & REST API<br>
+  🔹 Exploring AI & automation projects<br>
+</p>
 
 
 <!--
