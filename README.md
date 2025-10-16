@@ -68,11 +68,12 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)-->
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sherbekovozodbek)](https://t.me/sherbekovozodbek)
 
 ------------
 [![Hits](https://hits.sh/github.com/Ozodbek1-AI.svg)](https://hits.sh/github.com/Ozodbek1-AI/)
+[![wakatime](https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg)](https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27)
 ------------
 
 
