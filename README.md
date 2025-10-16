@@ -35,11 +35,10 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sherbekovozodbek)](https://t.me/firdavs_dev)
 
 ------------
-[![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
+[![Hits](https://hits.sh/github.com/Ozodbek1-AI.svg)](https://hits.sh/github.com/Ozodbek1-AI/)
 [![wakatime](https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg)](https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27)
 ------------
 
@@ -47,12 +46,4 @@
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-snake.svg)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
