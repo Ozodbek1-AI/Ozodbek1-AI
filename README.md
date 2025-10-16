@@ -1,10 +1,19 @@
 <img align="right" src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Ft.me/multibola&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ozodbe</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ozodbek</h1>
 <h3>Backend Developer 👨‍💻</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ozodbek1-AI&theme=tokyonight_duo&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek1-AI&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek1-AI&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 <!--
