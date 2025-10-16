@@ -83,9 +83,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman) -->
 
 
-**Contact**
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sherbekovozodbek)](https://t.me/firdavs_dev)
 
 ------------
 [![Hits](https://hits.sh/github.com/Ozodbek1-AI.svg)](https://hits.sh/github.com/Ozodbek1-AI/)
