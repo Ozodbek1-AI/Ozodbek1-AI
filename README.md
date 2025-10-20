@@ -38,9 +38,7 @@
 </p>
 
 
-<!--
-**Ozodbek1-AI/Ozodbek1-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Welcome!](86T4GWHN.gif)
+
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
 
