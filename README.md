@@ -10,13 +10,6 @@
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,linux,vscode&theme=dark" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
