@@ -21,15 +21,6 @@
 </p>
 
 
----
-
-### 💡 About Me
-<p align="center">
-  🔹 Passionate about backend development<br>
-  🔹 Learning Django & REST API<br>
-  🔹 Exploring AI & automation projects<br>
-</p>
-
 
 
 
